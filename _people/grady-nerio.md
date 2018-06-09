@@ -8,6 +8,7 @@ thumbnail: "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
 sub_heading: Head of Board
 email: grady@belkirkcollege.com
 linkedin: ''
+published: false
 ---
 
 Grady Nerio joined the Belkirk Board in 2015.
