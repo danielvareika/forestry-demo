@@ -76,3 +76,5 @@ fields:
   type: text
   hidden: true
   default: home
+pages:
+- _posts/landing-page-dv.html
